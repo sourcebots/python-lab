@@ -111,7 +111,7 @@ Available operations:
 = 5
 ```
 
-### Support "prefix" notation, where the operator comes before the numbers
+### Support "reverse polish" notation, where the operator comes after the numbers
 
 ```
 Available operations:
@@ -122,6 +122,6 @@ Available operations:
 - Exponent (^)
 - Square (**)
 
-> + 2 3
+> 2 3 +
 = 5
 ```
