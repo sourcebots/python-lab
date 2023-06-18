@@ -76,7 +76,7 @@ Select operation:
 Enter choice: ^
 Enter first number: 2
 Enter second number: 3
-2 ** 3 = 5
+2 ** 3 = 8
 ```
 
 In Python, the "power of" operator is `**`, but to keep the operations a single character, use "^".
