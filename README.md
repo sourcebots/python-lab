@@ -96,6 +96,8 @@ Enter first number: 3
 3 ** 2 = 9
 ```
 
+Bonus: Use the square symbol (`²`) for the operation and display
+
 ### Ask for all inputs at once, much like a conventional calculator
 
 ```
@@ -105,7 +107,7 @@ Available operations:
 - Multiply (*)
 - Divide (/)
 - Exponent (^)
-- Square (**)
+- Square (2)
 
 > 2 + 3
 = 5
@@ -120,7 +122,7 @@ Available operations:
 - Multiply (*)
 - Divide (/)
 - Exponent (^)
-- Square (**)
+- Square (2)
 
 > 2 3 +
 = 5
