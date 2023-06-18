@@ -26,12 +26,8 @@ while True:
     # take input from the user
     choice = input("Enter choice(1/2/3/4): ")
 
-    try:
-        num1 = int(input("Enter first number: "))
-        num2 = int(input("Enter second number: "))
-    except ValueError:
-        print("Invalid input. Please enter a number.")
-        continue
+    num1 = int(input("Enter first number: "))
+    num2 = int(input("Enter second number: "))
 
     if choice == '1':
         print(num1, "+", num2, "=", add(num1, num2))
