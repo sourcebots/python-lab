@@ -2,7 +2,7 @@
 
 Lab activities for general Python programming workshop.
 
-Attached is a `calc.py` script, which is a basic functional calculator program.
+Attached is a [`calc.py`](./calc.py) script, which is a basic functional calculator program.
 
 ## Tasks
 
