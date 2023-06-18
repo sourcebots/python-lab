@@ -36,7 +36,8 @@ Enter choice: +
 
 ### Add support for operating on decimal values
 
-```Select operation:
+```
+Select operation:
 - Add (+)
 - Subtract (-)
 - Multiply (*)
