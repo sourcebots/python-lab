@@ -113,7 +113,7 @@ Available operations:
 = 5
 ```
 
-### Support "reverse polish" notation, where the operator comes after the numbers
+### Support "Reverse Polish" notation, where the operator comes after the numbers
 
 ```
 Available operations:
