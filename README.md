@@ -127,3 +127,5 @@ Available operations:
 > 2 3 +
 = 5
 ```
+
+This should work in addition to normal (infix) notation.
