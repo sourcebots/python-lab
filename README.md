@@ -98,6 +98,23 @@ Enter first number: 3
 
 Bonus: Use the square symbol (`²`) for the operation and display
 
+### If the calculation fails, show a sensible message
+
+```
+Select operation:
+- Add (+)
+- Subtract (-)
+- Multiply (*)
+- Divide (/)
+- Exponent (^)
+- Square (2)
+Enter choice: /
+Enter first number: 3
+Enter second number: 0
+3 / 0 failed: ZeroDivisionError: float division by zero
+Enter choice:
+```
+
 ### Ask for all inputs at once, much like a conventional calculator
 
 ```
