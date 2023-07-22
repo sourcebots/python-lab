@@ -6,7 +6,7 @@ Attached is a [`calc.py`](./calc.py) script, which is a basic functional calcula
 
 ## Tasks
 
-Whilst you can complete the tasks in any order, they start easier and get harder, so we'd recommend completing them in order.
+Whilst you can complete the tasks in any order, they start easier and get harder, so we'd recommend completing them in order. Each new feature must not break functionality introduced in a previous.
 
 Each task is presented with an example output. This is merely an example - feel free to write it however you wish.
 
