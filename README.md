@@ -96,8 +96,6 @@ Enter first number: 9
 sqrt 9 = 3
 ```
 
-Bonus: Use the square symbol (`²`) for the operation and display
-
 ### If the calculation fails, show a sensible message
 
 ```
