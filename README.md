@@ -72,16 +72,16 @@ Select operation:
 - Subtract (-)
 - Multiply (*)
 - Divide (/)
-- Exponent (^)
-Enter choice: ^
+- Exponent (**)
+Enter choice: **
 Enter first number: 2
 Enter second number: 3
 2 ** 3 = 8
 ```
 
-In Python, the "power of" operator is `**`, but to keep the operations a single character, use "^".
+In Python, the "power of" operator is `**`.
 
-### Implement squaring, where only a single number is prompted
+### Implement square root, where only a single number is prompted
 
 ```
 Select operation:
@@ -89,11 +89,11 @@ Select operation:
 - Subtract (-)
 - Multiply (*)
 - Divide (/)
-- Exponent (^)
-- Square (2)
-Enter choice: 2
-Enter first number: 3
-3 ** 2 = 9
+- Exponent (**)
+- Square Root (sqrt)
+Enter choice: sqrt
+Enter first number: 9
+sqrt 9 = 3
 ```
 
 Bonus: Use the square symbol (`²`) for the operation and display
@@ -106,8 +106,8 @@ Select operation:
 - Subtract (-)
 - Multiply (*)
 - Divide (/)
-- Exponent (^)
-- Square (2)
+- Exponent (**)
+- Square Root (sqrt)
 Enter choice: /
 Enter first number: 3
 Enter second number: 0
@@ -115,7 +115,7 @@ Enter second number: 0
 Enter choice:
 ```
 
-### Ask for all inputs at once, much like a conventional calculator
+### Let the user enter the entire equation at once
 
 ```
 Available operations:
@@ -123,14 +123,14 @@ Available operations:
 - Subtract (-)
 - Multiply (*)
 - Divide (/)
-- Exponent (^)
-- Square (2)
+- Exponent (**)
+- Square (sqrt)
 
 > 2 + 3
 = 5
 ```
 
-### Support "Reverse Polish" notation, where the operator comes after the numbers
+### Support "[Reverse Polish](https://www-stone.ch.cam.ac.uk/documentation/rrf/rpn.html)" notation, where the operator comes after the numbers
 
 ```
 Available operations:
@@ -138,8 +138,8 @@ Available operations:
 - Subtract (-)
 - Multiply (*)
 - Divide (/)
-- Exponent (^)
-- Square (2)
+- Exponent (**)
+- Square (sqrt)
 
 > 2 3 +
 = 5
