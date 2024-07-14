@@ -10,6 +10,40 @@ Whilst you can complete the tasks in any order, they start easier and get harder
 
 Each task is presented with an example output. This is merely an example - feel free to write it however you wish.
 
+### List the operations again after each calculation
+
+```
+Select operation.
+1.Add
+2.Subtract
+3.Multiply
+4.Divide
+Enter choice(1/2/3/4): 1
+Enter first number: 1
+Enter second number: 1
+1 + 1 = 2
+Let's do next calculation? (yes/no): yes
+
+Select operation.
+1.Add
+2.Subtract
+3.Multiply
+4.Divide
+Enter choice(1/2/3/4):
+```
+
+<details>
+
+<summary>Hint</summary>
+
+`while True` means "run this code forever". This is what keeps re-running our code over and over again.
+
+Python uses indenting to identify when blocks of code start or end. The `while` loop acts on everything indented 1 level further in than it.
+
+If the user doesn't want to do another calculation, `break` will "break" out of the loop, stop running the code in the loop, and run the rest of the program.
+
+</details>
+
 ### Show a message when the user enters an invalid operation
 
 ```
