@@ -10,6 +10,8 @@ Whilst you can complete the tasks in any order, they start easier and get harder
 
 Each task is presented with an example output. This is merely an example - feel free to write it however you wish.
 
+Below each task are "hints", which you can use to help you in the right direction if you need them. They're collapsed by default, but just click them to show them. See if you can complete the task without using the hints.
+
 ### List the operations again after each calculation
 
 ```
